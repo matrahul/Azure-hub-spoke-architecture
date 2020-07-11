@@ -1,5 +1,5 @@
 variable "subscription_id" {
-  default = "71202aac-b2d7-4041-9a7d-fb0bdeff853b"
+  default = ""
 }
 
 variable "resource_group_name" {
